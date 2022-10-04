@@ -1,5 +1,3 @@
-# Repository name: Training Repo
-The purpouse of this repo is to store all projects from my training program 
 
 # Project Exceptions Handling
 
