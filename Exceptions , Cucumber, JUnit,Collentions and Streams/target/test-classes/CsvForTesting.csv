@@ -1,0 +1,9 @@
+#This is csv file with testing data
+input,expected
+january,JANUARY
+feBRuaRy,FEBRUARY
+march,MARCH
+apriL,APRIL
+maY,MAY
+june,JUNE
+
